@@ -2,6 +2,11 @@
 <h3 align="center">A Software and Machine Learning Engineer from India</h3>
 
 - 🔭 I’m currently working as a Software Engineer at **Goldman Sachs**
+- I have experience in Machine learning and Data Science
+- I have interned at two companies as an AI Intern
+- I have proficiency in C++, Python and Java
+- I practice DSA questions in my free time
+- I also have interests in Physics and Parallel Computing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
